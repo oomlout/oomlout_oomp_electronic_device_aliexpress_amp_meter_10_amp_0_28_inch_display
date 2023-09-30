@@ -1,9 +1,21 @@
-# SVG Component Placement in Kicad
-Placing components along a path in Kicad.
+# Aliexpress Amp Meter 10 Amp 0.28 Inch Display
+Aliexpress Amp Meter 10 Amp 0.28 Inch Display
 ##notes
-Placing components along a path in Kicad.  
+* purchased from: https://www.amazon.co.uk/gp/product/B0B7XCNFS7
+Aliexpress Amp Meter 10 Amp 0.28 Inch Display  
 
  [![](working_600.jpg)](working.jpg)
+[![](working_1_600.jpg)](working_1.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
